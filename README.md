@@ -1,1 +1,1 @@
-# primeiro-repositorio-desafio-dio
+# dio-desafio-github-primeiro-repositorio
